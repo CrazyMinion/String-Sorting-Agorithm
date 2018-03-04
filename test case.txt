@@ -1,0 +1,22 @@
+write a code to compare to strings with different precendcd lvel
+a base of n is required if n possibilities are thr for a character to uniquely define that number
+
+7 10
+f e a b d c g
+feabdgc
+feabdgg
+eafbdcg
+efabdcg
+eafbdgc
+eabfdcg
+aebfdcg
+fffffff
+eeeeeee
+effffff
+
+
+7 2
+f e a b d c g
+feabdgc
+feabdgg
+
